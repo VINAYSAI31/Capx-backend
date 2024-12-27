@@ -11,7 +11,7 @@
 	<groupId>com.vinay</groupId>
 	<artifactId>Capx</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Capx</name>
 	<description>Project for Stocks</description>
 	<url/>
